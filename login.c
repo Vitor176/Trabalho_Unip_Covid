@@ -5,7 +5,7 @@ char login[15] = "admin";
 char login1[15]; 
 char senha[15] = "1234";
 char senha1[15];
-//-- Determina a conta nos "", tendo em consideração a quantidade de caracteres dentro dos []
+//-- Determina as Contas nos "", tendo em conta a quantidade de caracteres dentro dos []
 
 main()
 {
