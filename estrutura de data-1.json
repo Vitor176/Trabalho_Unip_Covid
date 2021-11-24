@@ -1,0 +1,23 @@
+{
+  "tm": {
+      "tm_mday": 10,
+      "tm_mon": 10,
+      "tm_year": 1990
+  }
+},
+{
+  "dataNascimento": {
+      "dia": "01",
+      "mes": "01",
+      "ano": "1990"
+  }
+},
+{
+  "dataNascimentoTm": {
+      "dia": 01,
+      "mes": 01,
+      "ano": 1990
+  }
+}
+
+calcularIdade(dataAtualTm, dataNascimentoTm)
